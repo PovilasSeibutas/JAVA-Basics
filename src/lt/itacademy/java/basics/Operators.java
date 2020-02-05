@@ -49,6 +49,4 @@ public class Operators {
     }
   }
 
-//  100 6 7 1.25
-//  110 25 7 1.25
 }
